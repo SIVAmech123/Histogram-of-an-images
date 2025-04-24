@@ -5,7 +5,7 @@ To obtain a histogram for finding the frequency of pixels in an Image with pixel
 ## Software Required:
 Anaconda - Python 3.7
 
-## Algorithm:
+## Algorithm: 
 ### Step1:
 Read the gray and color image using imread()
 
